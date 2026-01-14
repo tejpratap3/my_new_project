@@ -1,2 +1,3 @@
 # my_new_project
 This is my first git repository.
+Author - Tej Pratap Yadav
